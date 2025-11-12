@@ -1,6 +1,8 @@
 # awesome-ps1
 A list of amazing PS1 shell prefixes for linux. Just copy the PS1 variable to your .bashrc file in your home folder.
 
+![Screenshot](./Screenshot.png "Screenshot")
+
 # 1. Aqua
 ```
 PS1='\[\e[0;38;5;82m\]$ \[\e[0;38;5;45m\]\u \[\e[0;38;5;45m\](\[\e[0;38;5;39m\]\W\[\e[0;38;5;45m\]) \[\e[0;1;38;5;45m\]>\[\e[0m\]'
